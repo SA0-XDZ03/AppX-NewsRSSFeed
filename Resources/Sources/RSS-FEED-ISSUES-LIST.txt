@@ -1,0 +1,10 @@
+# FEEDS THAT ARE NOT WORKING
+# MAJOR ISSUE IS THE ATTRIBUTES IN THE RSS - DATE & TIME MODULES
+
+# LIST OF FEEDS NOT WORKING
+https://www.dailytelegraph.com.au/news/national/rss
+https://www.dailytelegraph.com.au/news/world/rss
+https://www.dailytelegraph.com.au/news/breaking-news/rss
+https://www.news.com.au/content-feeds/latest-news-national/
+https://www.news.com.au/content-feeds/latest-news-world/
+
