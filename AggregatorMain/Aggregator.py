@@ -3,7 +3,7 @@ import feedparser
 from dateutil import parser
 
 # Open RSS Feed File
-feedRSSFile = open('./Resources/RSSFEED_TEMPSOURCE.txt')
+feedRSSFile = open('RSSFEED_TEMPSOURCE.txt')
 feedRSSLineEach = feedRSSFile.readlines()
 feedValue = 0
 for eachLine in feedRSSLineEach:
@@ -26,7 +26,7 @@ for eachLine in feedRSSLineEach:
                     filteredArticle.append(article)
 
     # Open the text file for writing
-    with open("./Resources/RSSFEED_LOG/FEED" + str(feedValue) + ".txt", "w", encoding="utf-8") as file:
+    with open("../RSSFEED_LOG/FEED" + str(feedValue) + ".txt", "w", encoding="utf-8") as file:
         # Write the filtered articles to the text file
         for article in filteredArticle:
             file.write("Title: " + article.title + "\n")
