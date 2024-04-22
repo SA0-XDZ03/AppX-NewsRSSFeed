@@ -1,4 +1,4 @@
-﻿# NewsAggregator using RSS Feeds
+﻿# AppX - RSS Feed New Aggregation Module
 
 - [X] Cleaning the code - Update: Unwanted Code Clean & Proper Directory Structure Mained (Status: Scope for Improvement)
 - [ ] Error handling while importing RSS feeds - Update: Partially Implemented (Status: Work in Progress)
