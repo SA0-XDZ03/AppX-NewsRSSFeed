@@ -26,7 +26,7 @@ for eachLine in feedRSSLineEach:
                     filteredArticle.append(article)
 
     # Open the text file for writing
-    with open("../RSSFEED_LOG/FEED" + str(feedValue) + ".txt", "w", encoding="utf-8") as file:
+    with open("../RSSFEED_LOGS/FEED" + str(feedValue) + ".txt", "w", encoding="utf-8") as file:
         # Write the filtered articles to the text file
         for article in filteredArticle:
             file.write("Title: " + article.title + "\n")
