@@ -26,7 +26,7 @@ def main():
     all_articles = read_log_files()
 
     # Export the data structure as a JSON file
-    with open('articles.json', 'w') as json_file:
+    with open('../DataSources/RSSFEED_LOGFILES/Articles.json', 'w') as json_file:
         json.dump(all_articles, json_file, indent=4)
 
 if __name__ == "__main__":

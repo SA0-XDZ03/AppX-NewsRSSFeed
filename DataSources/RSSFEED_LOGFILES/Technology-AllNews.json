@@ -1,0 +1,55 @@
+[
+    {
+        "title": "Climate change could become the main driver of biodiversity decline by mid-century: report",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.thehindu.com/sci-tech/science/feeder/default.rss",
+            "value": "Climate change could become the main driver of biodiversity decline by mid-century: report"
+        },
+        "summary": "A team of researchers found that the combined effects of land-use change and climate change lead to biodiversity loss across all global regions, regardless of emissions scenario.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thehindu.com/sci-tech/science/feeder/default.rss",
+            "value": "A team of researchers found that the combined effects of land-use change and climate change lead to biodiversity loss across all global regions, regardless of emissions scenario."
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.thehindu.com/news/international/climate-change-could-become-the-main-driver-of-biodiversity-decline-by-mid-century-report/article68113247.ece"
+            }
+        ],
+        "link": "https://www.thehindu.com/news/international/climate-change-could-become-the-main-driver-of-biodiversity-decline-by-mid-century-report/article68113247.ece",
+        "id": "article-68113247",
+        "guidislink": false,
+        "tags": [
+            {
+                "term": "World",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Sat, 27 Apr 2024 11:35:57 +0530",
+        "published_parsed": [
+            2024,
+            4,
+            27,
+            6,
+            5,
+            57,
+            5,
+            118,
+            0
+        ],
+        "media_content": [
+            {
+                "height": "675",
+                "medium": "image",
+                "url": "https://th-i.thgim.com/public/incoming/149dn7/article68113276.ece/alternates/LANDSCAPE_1200/IMG_6678_10_4_2024_15_45_1_1_DFCLG7TB.jpg",
+                "width": "1200"
+            }
+        ]
+    }
+]

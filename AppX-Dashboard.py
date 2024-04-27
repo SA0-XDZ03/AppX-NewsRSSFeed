@@ -6,7 +6,7 @@ app = Flask(__name__)
 @app.route('/')
 def index():
     # Read data from articles.json
-    with open('./RSSFEED_LOGS/articles.json', 'r') as json_file:
+    with open('DataSources/RSSFEED_LOGFILES/articles.json', 'r') as json_file:
         articles = json.load(json_file)
     return render_template('index.html', articles=articles)
 
